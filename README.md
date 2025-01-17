@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @umar5678
-- 👀 I’m interested in ...Full Stack Web Development
-- 🌱 I’m currently learning ...Web development
-- 💞️ I’m looking to collaborate on ...web development projects
-- 📫 How to reach me ...
+# Hi there, I'm Umar 👋
 
-<!---
-umar5678/umar5678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate software developer interested in web development, data science, and open-source contributions.
+
+## 🚀 About Me
+
+- 🔭 I’m currently working on a LMS project
+- 🌱 I’m currently learning YOUTUBE DATA API
+- 👯 I’m looking to collaborate on interesting open-source projects
+- 💬 Ask me about anything related to web development or Python
+- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
+- ⚡ Fun fact: I love playing chess and hiking
+
+## 🛠️ Languages and Tools
+
+- **Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks/Libraries:** React, Node.js, Express, Next.js, Nest.js
+- **Tools:** Git, Docker, VS Code, Vercel, AWS
+
+## 📈 GitHub Stats
+
+![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=umar5678&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [Twitter](https://twitter.com/your-twitter)
+- [Personal Website](https://your-website.com)
+
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umar5678&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
