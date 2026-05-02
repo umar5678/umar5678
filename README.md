@@ -31,4 +31,6 @@ Welcome to my GitHub profile! I'm a passionate software developer interested in 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=umar5678&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=umar5678&show_icons=true&locale=en&layout=compact" alt="umar5678" /></p>
+
 Thank you for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
